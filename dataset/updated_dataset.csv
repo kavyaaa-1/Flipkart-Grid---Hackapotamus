@@ -1,0 +1,101 @@
+user_id,product_id,Interaction_duration,Interaction_type,user_name,gender,age,product_name,ratings,no_of_ratings,discount_price,actual_price,accessories,appliances,home & kitchen,sports & fitness,women's clothing,main_category_encoded,sub_category_encoded
+1,41934,23.5,1,Vojtěch Plát,1,22,Bellina Women's Clutch (Black +cream clutch_Multicolored),3.4,385,329,999,1,1,1,0,0,0,4
+1,258,64.0,0,Vojtěch Plát,1,22,"LG 1 Ton 3 Star Split Dual Inverter AC - White (MS-Q12ENXA, Copper Condenser)",5.0,5,"35,490","54,990",1,1,1,0,0,1,0
+2,292777,15.89,1,PlayMagnus Carlsen,0,21,Longwalk Men's Sports Running Shoes Outdoor Lightweight Gym Shoes,4.5,4,599,"1,599",1,1,0,1,0,6,24
+2,292783,22.5,0,PlayMagnus Carlsen,0,21,Shreds Men Badminton Sports Shoes White,5.0,2,"1,099","1,899",1,1,0,1,0,6,24
+3,328531,154.2167,0,Magnus Carlsen,1,20,Columbia,4.5,126,"12,749","14,999",1,0,0,1,1,11,28
+3,328516,1668.285,2,Magnus Carlsen,1,20,"High-Buy Women’s Loose Fit Jeans, Slouchy Jeans for Mom, Relaxed Denim Jeans, Balloon Fit, Black Color Mom Jeans",5.0,1,999,"1,999",1,0,0,1,1,11,28
+3,328576,2.666667,1,Magnus Carlsen,1,20,Aurelia Women Maxi Skirt,4.5,6,599,"1,999",1,0,0,1,1,11,28
+4,6753,627.5,1,Fabiano Caruana,0,21,Whirlpool Top Load Semi Automatic Washing Machine Spin Cap/Dryer Cover (24.5 cm),3.0,4,169,199,0,1,1,0,1,1,1
+4,6772,825.3,2,Fabiano Caruana,0,21,MOONSTRUCK Anti-Corrioson Waterproof Copper ISI MARKED 1500 W Immersion Heater Rod | Immersion Shock Proof Rod For Home an...,4.8,9,399,"1,499",0,1,1,0,1,1,1
+5,21713,110.98,1,Iuri Shkuro,1,67,"Decor Style |Size - XXXL, Brown-Color | Bean Bag with Relaxing Footstool with Filled Beans",4.9,17,"1,899","4,999",0,1,1,0,0,3,2
+5,21701,154.2167,1,Iuri Shkuro,1,67,"Care N Made® PP Spun pre Filter 10"" with Spanner- 1 Year self Service ro Water Purifier kit - for All Domestic RO Water Pu...",3.5,20,199,299,0,1,1,0,0,3,2
+6,328665,222.5,2,Hikaru Nakamura,1,24,Trufit Women's Polyester Full Sleeve Jacket,3.8,61,"2,097","3,295",0,1,1,0,1,11,28
+7,131078,189.7,1,Garry Kasparov,1,23,ZAVERI PEARLS Green & Pink Stones Traditional Pearls Choker Necklace & Earring Set For Women-ZPFK9554,5.0,1,458,"2,300",1,1,0,1,0,0,9
+7,131079,22.5,0,Garry Kasparov,1,23,Yellow Chimes Hair Clips for Women Girls Barrette Hair Clips for Women Hair Accessories for Women Bow Clips for Women Blue...,5.0,1,222,855,1,1,0,1,0,0,9
+7,131080,49.7,0,Garry Kasparov,1,23,Vembley Stunning Gold Plated Double Layered Babygirl Alphabet Word Pendant Necklace for Women and Girls,5.0,3,196,"1,499",1,1,0,1,0,0,9
+8,21524,37.0,1,Viswanathan Anand,0,20,Drake Self Draining Organizer Spoon Spatula Chopsticks Brush Holder Kitchen Draining Rack Storage Tools,4.0,72,160,799,0,0,1,1,0,3,2
+8,21525,89.4,1,Viswanathan Anand,0,20,"P-Plus International Placemats Place Mats for Kitchen Dining Table, Heat-Resistant StainAnti-Skid Washable PVC Table Mats,...",4.3,293,521,999,0,0,1,1,0,3,2
+8,21526,53.6,0,Viswanathan Anand,0,20,"Wakefit Pregnancy Pillows for Sleeping | 3 Month Warranty | Pregnancy Pillow, Maternity Pillow, Pregnancy Pillow for Pregn...",4.4,40,"1,348","1,999",0,0,1,1,0,3,2
+8,21520,57.9,2,Viswanathan Anand,0,20,"Smart Saver Reusable Vacuum Storage Bags Ziplock Space for Travel with hand pump, Plastic bags clothes blanket cover bag t...",4.2,805,"1,349","1,699",0,0,1,1,0,3,2
+9,133151,149.8,0,Levon Aronian,0,34,"SportzBeat: Size 6 Rubber Football Ball (Multicolour, SB Sports Goods_55)",5.0,1,450,599,0,1,0,1,1,7,10
+9,133153,537.4,0,Levon Aronian,0,34,"Hubberholme Men's Cotton Blend White Stripe Regular Fit Joggers - Trackpant with Drawstring Elastic Waistband, Lower for J...",3.8,18,320,"1,999",0,1,0,1,1,7,10
+9,133154,738.0,2,Levon Aronian,0,34,"VEGO Mens Cotton Three by Fourth, 3/4, Capri, Three Quarter",4.1,612,499,990,0,1,0,1,1,7,10
+10,178273,379.4,1,Alireza Firouzja,1,22,Microware 1 in 4 out HDMI Splitter Amplifier Repeater Full HD 1080P 1X4 Port Box Hub with US Adapter v1.4 Powered Certifie...,3.5,9,"1,299","2,599",1,1,0,0,0,10,14
+10,178275,395.0,0,Alireza Firouzja,1,22,7SEVEN® Compatible for Philips Tv Remote Original Suitable for Smart Android 4K Television with Hotkeys like NETFLIX YouTu...,5.0,1,419,899,1,1,0,0,0,10,14
+11,133043,422.57,2,Hikaru Nakamura,1,20,"BLINKIN Womens Stretchable Gym Track Pants for Women : Ideal Gym Wear, Joggers, Yoga Pants & Lower for Women Workout & Car...",3.9,85,299,"1,680",0,1,0,1,0,7,10
+12,270068,2822.5,0,Alexander Grischuk,0,22,Spykar Checks Cotton Slim Fit Mens Casual Shirt (A21MSH01BA087CO-P),4.0,9,809,"1,799",1,0,0,1,1,5,23
+12,270069,2978.3,2,Alexander Grischuk,0,22,Zombom Combo of Men Cotton Polyester Blend Regular Fit Striped Casual Shirt Pack of 2,5.0,1,799,"2,549",1,0,0,1,1,5,23
+13,133029,98.0,0,Sergey Karjakin,1,44,"MT SportsCLUB Combo City + CR-7 Football with AIR Pump Football - Size: 5 (Pack of 2, Multicolor)",3.8,15,949,"1,499",1,1,0,1,0,7,10
+13,133030,119.2,2,Sergey Karjakin,1,44,Qiddo Sports Girls' T-Shirt,4.2,29,560,800,1,1,0,1,0,7,10
+13,133031,56.2,1,Sergey Karjakin,1,44,Fila Women's Regular Pants,4.0,2,879,"1,599",1,1,0,1,0,7,10
+14,328380,117.3,2,Maxime Vachier-Lagrave,1,22,Levi's Women's 710 Super Skinny Fit Jeans,4.6,13,"1,392","2,899",0,0,1,1,1,11,28
+14,328412,85.0,0,Maxime Vachier-Lagrave,1,22,Kalt Women's 3/4th Sleeves Open Plain Shrug,4.2,115,575,800,0,0,1,1,1,11,28
+14,328393,68.0,1,Maxime Vachier-Lagrave,1,22,SIGHTBOMB Round Neck V Cut Spaghetti Ribbed Tops for Women,3.5,7,349,"1,200",0,0,1,1,1,11,28
+15,145104,1668.285,0,Ian Nepomniachtchi,1,25,blubags SB-01 Sling Bag for girls,4.0,4,349,999,1,0,0,1,0,0,12
+15,145105,1452.48,2,Ian Nepomniachtchi,1,25,Shubh Shagun Women's Mirror work Potli,4.2,28,165,999,1,0,0,1,0,0,12
+16,199916,36.8,1,Anish Giri,0,21,Yellow Chimes Chain for Men Silver Rice Chain for Boys Classic 316L Stainless Steel Evergreen Neck Chains for Men and Boys.,3.7,50,256,"1,745",1,0,0,1,0,0,17
+16,199924,22.5,2,Anish Giri,0,21,Yellow Chimes Earrings for Men and Boys | Fashion Black Studs for Men | Gold Plated Stainless Steel Stud | Black Stone stu...,4.0,241,296,"2,480",1,0,0,1,0,0,17
+17,167670,334.9667,2,Shakhriyar Mamedyarov,0,22,"Runbugz Activated Charcoal Air Purifiers Dehumidifier for Home, Car, Wardrobe, Fridge, Shoe Rack, Bathroom, Kitchen (Mediu...",5.0,1,379,499,0,1,1,1,0,1,13
+18,167637,75.12,1,Timur Gareev,0,20,Ansawi fan Dust Cover with Drawstring Washable Electric Fans Dust Covers Round Safety Fan Cover for Household Floor Fans T...,3.6,23,295,599,0,1,0,1,1,1,13
+18,167638,32.0,1,Timur Gareev,0,20,"IMTION ( Pack of 10 Fan / Pankhudi ) Dc Toy Motor Fan Blades for Projects, Mini Fan & DIYs Use of projest Work (Multicolor)",4.5,2,69,200,0,1,0,1,1,1,13
+19,53118,622.25,1,Harikrishna Pentala,0,25,Action Pro Silicone Rubber Case + Lens Protective Cap Cover Compatible with DJI OSMO Action Sports Camera (Green),3.8,93,399,499,0,1,1,0,1,10,6
+19,53120,222.4,0,Harikrishna Pentala,0,25,"WELBORN EN-EL12 Rechargeable Battery Pack compatible with Nikon Coolpix B600 ,W300 ,A900,S9900,P340,AW120,S9600,S9700,P33...",3.4,22,799,"1,125",0,1,1,0,1,10,6
+19,53122,80.0,2,Harikrishna Pentala,0,25,Buyline® ( Made in India Improved Tough J Hook Quick Release Buckle Mount Compatible with GoPro 10 9 8 7 6 5 4 4k Eken AKA...,4.2,6,189,499,0,1,1,0,1,10,6
+20,86328,800.8333,0,Teimour Radjabov,1,33,Juniper Women's Chiffon Printed Tiered Dress,4.1,55,"1,294","2,098",1,1,0,0,0,11,7
+20,86329,753.4,2,Teimour Radjabov,1,33,Tweens Women�s Heavily Padded Underwired T-Shirt Bra,4.7,4,119,350,1,1,0,0,0,11,7
+21,194470,451.2,0,Anish Giri,0,21,"Pepe Jeans Men's Jeans (Pm206422aa0_38, Blue, 38)",4.0,1,"1,649","3,299",0,0,1,0,1,5,16
+21,194471,265.1667,2,Anish Giri,0,21,U.S. POLO ASSN. Men Blue Stone Wash Brandon Slim Tapered Fit Jeans,5.0,1,"1,949","2,999",0,0,1,0,1,5,16
+21,194472,29.0,1,Anish Giri,0,21,"Spykar Mid Tone Wash Cotton Stretch Super Skinny Fit Mens Jeans (A21SS02BA09BLU005, Blue, 36)",5.0,1,"1,332.61","2,999",0,0,1,0,1,5,16
+22,243763,160.0,2,Vladimir Kramnik,0,21,CURREN Analog Men's Watch ( Dial Blue Colored Strap),4.1,740,"2,495","6,999",0,1,0,1,1,8,21
+22,243764,135.6667,0,Vladimir Kramnik,0,21,Clothera Suspender and Bow Tie Set with Flat cap for Men- Black,4.2,336,519,999,0,1,0,1,1,8,21
+23,259350,56.214,1,Leinier Dominguez Perez,1,22,"Buwico Protective Travel Storage Case for Dyson Airwrap Styler Hair Curler Accessories, Hard Shell Shockproof Dustproof Or...",4.0,72,"4,845","8,599",1,0,1,0,0,2,22
+23,259351,213.85,0,Leinier Dominguez Perez,1,22,Moxtiza Professional Stylish Hair Dryers For Womens And Men Hot And Cold DRYER (2000 Watts),4.0,1,499,"1,499",1,0,1,0,0,2,22
+23,259352,998.7417,2,Leinier Dominguez Perez,1,22,KUBRA KB-2519 Hair Straightener for a Shiny Look (Navy Blue),5.0,2,799,"1,599",1,0,1,0,0,2,22
+23,259353,104.0,1,Leinier Dominguez Perez,1,22,SHAYONAM New Hair Electric Comb Brush 3 in 1 Ceramic Fast Hair Straightener For Women's Hair Straightening Brush with LCD ...,3.0,61,549,999,1,0,1,0,0,2,22
+24,271042,381.6865,1,Alex Onischuk,0,24,Hubberholme Men's Cotton Color Block Regular Fit Casual Shirt - Pure Soft Cotton Shirts for Men Stylish/Trendy Full Sleeve...,4.5,2,699,"1,999",1,0,0,1,1,5,23
+25,271182,169.0,2,Alexander Zubov,0,74,The Indian Garage Co Men's Slim Fit Shirt,3.5,25,472,"1,749",0,1,0,1,1,5,23
+25,271183,400.8,1,Alexander Zubov,0,74,Stiff Collar Gingham Giza Cotton Shirt,3.8,13,"1,399","1,999",0,1,0,1,1,5,23
+25,271184,1553.583,1,Alexander Zubov,0,74,Pepe Jeans Men's Regular Fit Casual Shirt,3.6,9,"1,198","2,399",0,1,0,1,1,5,23
+26,293231,706.5,2,Radoslaw Wojtaszek,0,56,Campus Fusion Running Shoes,4.2,19,"1,104","1,599",1,1,0,0,1,6,24
+26,293232,56.98,1,Radoslaw Wojtaszek,0,56,Campus Men Running Shoes,4.2,16,"1,189","1,699",1,1,0,0,1,6,24
+27,307191,798.3333,0,Jan-Krzysztof Duda,0,22,DUDEME There is no Place Like 127.0.0.1 | Geek Half Sleeve T Shirt for Men | Round Neck Cotton T Shirt | Programmer T Shir...,4.3,20,499,699,1,1,1,0,0,5,26
+27,307192,6951.972,2,Jan-Krzysztof Duda,0,22,House Of Tees | I Am Groot T-Shirt | 100% Cotton T-Shirt | Round Neck | Unisex,4.8,12,699,999,1,1,1,0,0,5,26
+28,239868,1873.217,1,Hou Yifan,1,20,smashbox L.A. Lights Blush & Highlight Palette - Culver City Coral,4.6,76,"3,635","10,499",1,1,1,0,0,2,20
+28,239869,13.0,1,Hou Yifan,1,20,HANDAIYAN Liquid Matte Lipstick | 12 pcs set | Waterproof | Long lasting,5.0,2,"1,199","1,999",1,1,1,0,0,2,20
+29,240434,222.0,2,Hikaru Nakamura,1,22,XX Revolution XX Shadow Palette XXccentric,5.0,2,"2,475","4,950",1,0,0,0,1,2,20
+30,297576,214.8333,2,Dmitry Andreikin,1,24,"Fastrack Women BugEye Sunglasses, Black (Free size) P246BK1F",2.5,5,"2,689","2,899",0,0,1,1,0,0,25
+30,297577,12.58,1,Dmitry Andreikin,1,24,MONT BLANC Montblanc Women's Fashion Brown Sunglasses MB419S 60 50F,5.0,2,"23,900","42,834",0,0,1,1,0,0,25
+31,316394,2017.167,1,Liem Le,1,21,Fastrack Analog Silver Dial Women's Watch-NL6107SL01/NP6107SL01,4.2,318,"1,596","1,995",1,0,1,0,1,0,27
+31,316395,449.0278,0,Liem Le,1,21,Daniel Klein Analog Silver Dial Women's Watch-DK.1.12432-6,4.0,1,"1,001","3,450",1,0,1,0,1,0,27
+31,316396,158.1667,2,Liem Le,1,21,Fastrack Analog Blue Dial Unisex-Adult Watch-9915PP62,4.1,28,855,950,1,0,1,0,1,0,27
+32,180480,303.6667,0,Parham Maghsoodloo,0,25,"BELOXY Drain Pipe Cleaning Spring Stick, Hair Catching Drain Pipe Cleaning Claw Wire, Sink Cleaning Stick Sewer Sink Tub D...",5.0,26,284,"1,399",1,0,1,0,1,3,15
+33,135785,25.0,1,Vidit Gujrathi,0,24,Rhysley Leather Black Lace up Closed Toe Low Arch Soft Cushioned Comfortable Formal Derby Dress Shoes for Men | Ideal for ...,4.0,7,"2,499","6,299",1,0,1,0,0,6,11
+33,135786,42.0,0,Vidit Gujrathi,0,24,MUTAQINOTI Men's Rosewood Luxury Leather Patina Work Loafer Handmade Formal Slip On Shoes for Men (FLABRW),4.0,1,"1,499","4,999",1,0,1,0,0,6,11
+34,80292,1003.417,0,Baadur Jobava,1,44,Janasya Women's Yellow Georgette Floral Print Flared Western Dress,4.2,26,995,"2,689",1,0,0,1,0,11,7
+34,80293,0.0,2,Baadur Jobava,1,44,ZEYO Women's Cotton Strip Printed Night Suit Set of Shirt & Pyjama 5261,4.1,679,849,"2,499",1,0,0,1,0,11,7
+34,80294,272.5,1,Baadur Jobava,1,44,S4S® Women's 100% Cotton Cut Work Bordar Floral Pattern Handkerchief/Ladies Hankies (Size_30CM X 30CM),4.2,249,249,499,1,0,0,1,0,11,7
+35,237,344.0,1,Evgeny Shtembuliak,0,56,"Comfee 1.5 Ton 3 Star Non-Inverter Split AC (OAS18EE3R39F0+OF183R3AC90, White)",4.1,120,"39,000","49,990",0,1,0,1,1,1,0
+35,238,321.746,1,Evgeny Shtembuliak,0,56,RISARYA H20R1203 IGBT 1PCS POWER TRANSISTOR 20A 1200V REVERSE CONDUCTING HEATING AND WIDELY USED IN INDUCTION COOKER T0247...,4.0,4,199,499,0,1,0,1,1,1,0
+35,239,852.0,0,Evgeny Shtembuliak,0,56,"Voltas 1 Ton 3 Star Split Air Conditioner with High Ambient Cooling.(123V CZQ, White)",4.3,630,"33,490","59,990",0,1,0,1,1,1,0
+36,28794,780.0,0,Yaroslav Zherebukh,1,21,"DAKULO® Soft Cloth Swing New Born Baby Cradle/Ghodiyu/Khoyu Hammock in Cool Cotton with Net, Orange (with Steel Hangers)",4.3,71,489,899,0,1,1,0,0,9,3
+36,28796,1038.0,2,Yaroslav Zherebukh,1,21,"Kuchipoo Baby Girl Regular Fit Cotton T-Shirts (© Disney-TSHRT-349, Multi-Colored)",4.1,28,615,"1,899",0,1,1,0,0,9,3
+36,28797,573.0,1,Yaroslav Zherebukh,1,21,Real Basics Cotton Clothing Sets for Baby Boys & girls - Unisex Clothing sets Full Sleeve T-shirt & Pant,4.0,420,399,699,0,1,1,0,0,9,3
+36,28798,615.8831,1,Yaroslav Zherebukh,1,21,"Johnson's Baby Milk and Rice Cream for Summer, 200 g",4.6,3,275,285,0,1,1,0,0,9,3
+36,28800,98.213,1,Yaroslav Zherebukh,1,21,Fareto New Born Baby 3 in 1 Sleeping Bag Cum Baby Bed/Carry Bag/Baby Wrapper (0-6 Months)(Blue),4.0,173,292,699,0,1,1,0,0,9,3
+37,45929,117.5,2,Varuzhan Akobian,1,21,Flavia Womens Ain/38 Ballet,5.0,2,476.01,"1,699",0,1,1,0,0,12,5
+37,45930,415.0,0,Varuzhan Akobian,1,21,Fabbmate Women's & Girl's Bellies,3.7,735,349,499,0,1,1,0,0,12,5
+38,55871,23.8,1,Francisco Vallejo Pons,0,19,SPOY Bluetooth Remote Controller Shutter Button for Selfie Stick Widely Compatible with All Bluetooth Devices,4.6,9,198,499,1,0,0,0,1,10,6
+38,55872,501.6667,1,Francisco Vallejo Pons,0,19,Dolly Mini Cart Table Slider for DSLR Camera,4.0,1,620,950,1,0,0,0,1,10,6
+38,55873,829.1667,0,Francisco Vallejo Pons,0,19,SPRITZEN 15K Ohms Carbon Film Resistor 0.25W 5% Tolerance (Pack of 100),4.7,16,160,299,1,0,0,0,1,10,6
+39,97018,1223.0,2,Alexander Ipatov,0,19,U.S. POLO ASSN. Men Sweatshirt,5.0,2,"1,617","3,299",1,1,0,1,0,7,8
+40,165056,467.0,1,Vasif Durarbayli,1,25,"STAR SUNLITE (Tibcon) Capacitor for Ceiling Fan, 3.15 MFD Capacitor to Increase Speed, White -2 Pieces",4.0,99,286,499,1,1,0,0,1,1,13
+40,165057,737.1667,1,Vasif Durarbayli,1,25,"Elysian™ Orignal Silica Gel Desiccant Packets 5 Gram Silica Pouch(Pack of 3 kg) - for Moisture Absorb - Protects Cameras, ...",4.0,64,749,"1,899",1,1,0,0,1,1,13
+41,214209,129.0,0,Andrey Esipenko,0,22,Puma Unisex-Child Runner V Ps Idp Closed Shoe,4.6,23,"1,659","1,799",0,1,0,1,0,4,18
+41,214210,63.0,1,Andrey Esipenko,0,22,Chiu Present Super Fancy & Cute Booties For Your Little Princess & Prince,4.5,15,298,499,0,1,0,1,0,4,18
+41,214211,125.0,2,Andrey Esipenko,0,22,Bubblegummers Girl's Unai Fashion Sandals,4.5,27,896,"1,299",0,1,0,1,0,4,18
+42,239248,684.3333,0,Aleksandr Lenderman,1,20,The Body Shop Japanese Matcha Tea Pollution Clearing Mask - Pack Of 1,4.2,9,"1,866","2,295",1,0,0,1,1,2,19
+42,239249,665.4722,1,Aleksandr Lenderman,1,20,"POND'S White Beauty BB+ Fairness Cream 01 Original, 18 g And Lakme Complexion Care Face Cream, Beige, 9g",4.2,135,262,270,1,0,0,1,1,2,19
+43,307682,487.5,1,Arkadij Naiditsch,0,30,Max Men's Regular Fit Tshirt,4.5,2,399,499,0,1,0,1,0,5,26
+43,307683,437.1667,2,Arkadij Naiditsch,0,30,Fusefit Men's Regular T-Shirt,4.1,7,279,999,0,1,0,1,0,5,26
+43,307684,55.0,1,Arkadij Naiditsch,0,30,REPLY Delhi Capitals 2021 IPL Jersey Half Sleeves,4.0,23,899,"2,899",0,1,0,1,0,5,26
