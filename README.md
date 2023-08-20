@@ -8,4 +8,4 @@ rankings for individual users. The ranking system should consider factors such a
 preferences, past interactions, product popularity, and user similarity. It should be able to predict
 the most suitable products for a user based on their unique characteristics and preferences.
 
-![Screenshot (1954)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/5770a703-6b84-40fb-bda3-6a8e45a94f12)
+
