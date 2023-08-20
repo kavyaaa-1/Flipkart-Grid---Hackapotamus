@@ -10,6 +10,8 @@ the most suitable products for a user based on their unique characteristics and 
 
 ![Screenshot (1959)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/2bb4b5b5-c4a2-4f5e-80ed-c30a66f32bf6)
 
+![Screenshot (1963)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/415fb089-8a3e-454c-a9a4-25bec1f0dec3)
+
 ![Screenshot (1960)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/23ebe778-a041-47b5-9e4c-47a9db51f887)
 
 ![Screenshot (1961)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/21d114e7-bb26-47d6-98b2-8a3826a8f011)
