@@ -19,6 +19,8 @@ Generic product listings may not resonate with individual preferences. Our platf
 ### 3. Engagement and Retention: 
 E-commerce platforms often struggle to retain user engagement. Our personalized recommendations keep users engaged by consistently presenting them with content that matches their interests.
 
+## Screenshots
+
 ![Screenshot (1959)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/2bb4b5b5-c4a2-4f5e-80ed-c30a66f32bf6)
 
 ![Screenshot (1963)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/415fb089-8a3e-454c-a9a4-25bec1f0dec3)
@@ -28,3 +30,10 @@ E-commerce platforms often struggle to retain user engagement. Our personalized 
 ![Screenshot (1961)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/21d114e7-bb26-47d6-98b2-8a3826a8f011)
 
 ![Screenshot (1962)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/2113a8ee-1811-48fb-832e-50d39e1a4853)
+
+## Support and Contact
+|S.No| Name| Email id| GitHub Username
+|:--|:----|:--------|----------------|
+|1|Saloni Stuti|saloni.stuti@gmail.com|@salonistuti|
+|2|Kavya Gupta|saloni.stuti@gmail.com|@kavyaaa-1|
+|3|Kritika|saloni.stuti@gmail.com|@salonistuti|
