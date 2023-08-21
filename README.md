@@ -2,11 +2,12 @@
 
 ### Problem Statement: Personalized Product Recommendations
 
-The aim is to enhance user experience by implementing a personalized product ranking system.
-Your task is to develop an algorithm or model that can generate accurate and relevant product
-rankings for individual users. The ranking system should consider factors such as user
-preferences, past interactions, product popularity, and user similarity. It should be able to predict
-the most suitable products for a user based on their unique characteristics and preferences.
+Team Hackapotamous aims to enhance the user experience by implementing a personalized product ranking system. This project is built as a part of the Flipkart GRiD 5.0.
+We developed an algorithm or model that can generate accurate and relevant product rankings for individual users, using KNN algorithm and the cosine similarity metric. The ranking system considers factors such as user
+preferences, past interactions. It predicts the most suitable products for a user based on their unique characteristics and preferences.
+
+Motivation:
+With online shopping and e-commerce becoming an integral part of our day-to-day life, it is time that Artificial Intelligence take root into the experience of online shopping. 
 
 ![Screenshot (1959)](https://github.com/kavyaaa-1/Flipkart-Grid---Hackapotamus/assets/71927950/2bb4b5b5-c4a2-4f5e-80ed-c30a66f32bf6)
 
