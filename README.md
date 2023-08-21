@@ -36,7 +36,7 @@ Shoppers may stick to familiar product categories, missing out on potential inte
 
 ## Support and Contact
 |S.No| Name| Email id| GitHub Username
-|:--|:----|:--------|----------------|
+|:--|:----|:--------|:----------------|
 |1|Saloni Stuti|saloni.stuti@gmail.com|@salonistuti|
-|2|Kavya Gupta|saloni.stuti@gmail.com|@kavyaaa-1|
-|3|Kritika|saloni.stuti@gmail.com|@salonistuti|
+|2|Kavya Gupta|guptakavya2002@gmail.com|@kavyaaa-1|
+|3|Kritika|.|.|
