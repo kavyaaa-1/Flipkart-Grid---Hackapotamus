@@ -9,7 +9,7 @@ preferences, past interactions. It predicts the most suitable products for a use
 ### Motivation:
 With online shopping and e-commerce becoming an integral part of our day-to-day life, it is time that Artificial Intelligence take root into the experience of online shopping. 
 
-### Solved Problems:
+## Solved Problems:
 ### 1. Information Overload: 
 Traditional e-commerce platforms often overwhelm users with extensive product catalogs. Our platform solves this by utilizing personalized recommendations, ensuring users are presented with products most relevant to their preferences and interests.
 
@@ -18,6 +18,9 @@ Generic product listings may not resonate with individual preferences. Our platf
 
 ### 3. Engagement and Retention: 
 E-commerce platforms often struggle to retain user engagement. Our personalized recommendations keep users engaged by consistently presenting them with content that matches their interests.
+
+### 4. Limited Exploration: 
+Shoppers may stick to familiar product categories, missing out on potential interests. Our diverse recommendations encourage users to explore new categories they might not have considered otherwise.
 
 ## Screenshots
 
